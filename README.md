@@ -17,9 +17,7 @@ A comprehensive hospital management system with secure authentication, role-base
 - Rails 7.0.8
 - PostgreSQL 14+
 - Devise (Authentication)
-- Pundit (Authorization)
 - Bootstrap 5 (Frontend)
-- Hotwire (Turbo & Stimulus)
 
 ## Prerequisites
 
